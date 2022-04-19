@@ -1,1 +1,18 @@
 <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script> <script>LA.init({id: "Je2yUfrfGpYKnD4a",ck: "Je2yUfrfGpYKnD4a"})</script>
+<!-- CSS -->
+<link href="https://cdn.jsdelivr.net/npm/artalk@2.2.4/dist/Artalk.css" rel="stylesheet">
+
+<!-- JS -->
+<script src="https://cdn.jsdelivr.net/npm/artalk@2.2.4/dist/Artalk.js"></script>
+
+<!-- Artalk -->
+<div id="Comments"></div>
+<script>
+  new Artalk({
+    el:        '#Comments',
+    pageKey:   'https://kamiui.ml/',
+    pageTitle: '萤火虫资源站',
+    server:    'https://artalk.danhai2.repl.co',
+    site:      '萤火虫资源站',
+  })
+</script>
