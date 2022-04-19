@@ -12,7 +12,7 @@
     el:        '#Comments',
     pageKey:   'https://kamiui.ml/',
     pageTitle: '萤火虫资源站',
-    server:    'https://artalk.danhai2.repl.co',
+    server:    'https://artalk.danhai2.repl.co/api/',
     site:      '萤火虫资源站',
   })
 </script>
