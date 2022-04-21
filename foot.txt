@@ -14,5 +14,9 @@
     pageTitle: '萤火虫资源站',
     server:    'https://artalk.danhai2.repl.co/api/',
     site:      '萤火虫资源站',
+  gravatar: {
+    default: 'mp',
+    mirror: 'https://cravatar.cn/avatar/',
+  }
   })
 </script>
