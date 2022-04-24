@@ -1,9 +1,9 @@
 <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script> <script>LA.init({id: "Je2yUfrfGpYKnD4a",ck: "Je2yUfrfGpYKnD4a"})</script>
 <!-- CSS -->
-<link href="https://cdn.jsdelivr.net/npm/artalk@2.2.7/dist/Artalk.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/artalk/dist/Artalk.css" rel="stylesheet">
 
 <!-- JS -->
-<script src="https://cdn.jsdelivr.net/npm/artalk@2.2.7/dist/Artalk.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/artalk/dist/Artalk.js"></script>
 
 <!-- Artalk -->
 <div id="Comments"></div>
