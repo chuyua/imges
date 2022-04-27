@@ -15,6 +15,5 @@
     pageTitle: '萤火虫资源站',
     server:    'https://artalk.danhai2.repl.co/',
     site:      '萤火虫资源站',
-  }
   })
 </script>
